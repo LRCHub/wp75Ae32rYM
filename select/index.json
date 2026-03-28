@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "シルべ",
+  "base_artist": "常闇トワ",
+  "createdAt": "2026-03-28T05:10:18.205421Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シルべ",
+      "artist": "常闇トワ",
+      "has_synced": false,
+      "path": "select/pl_01_シルべ_常闇トワ.txt"
+    }
+  ]
+}
